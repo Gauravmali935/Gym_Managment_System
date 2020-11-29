@@ -1,1 +1,1 @@
-# Gym_Managment_System
+# Student_managment_system
